@@ -52,4 +52,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or s
+For any inquiries or support, feel free to contact our team at [support@rise2pro.com](mailto:support@rise2pro.com).
+
+Happy coding! 🚀
